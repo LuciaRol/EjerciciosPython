@@ -1,7 +1,7 @@
 """ 
 Ejercicio 5. Operaciones aritméticas.
 Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado.
-Autora: Lucía odríguez López
+Autora: Lucía Rodríguez López
 Fecha: 16/10/2025
 """
 

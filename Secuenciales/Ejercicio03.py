@@ -1,7 +1,7 @@
 """ 
 Ejercicio 3. Conversor euros-pesetas
 Diseña un algoritmo que pida la cantidad de euros y calcule cuántas pesetas son.
-Autora: Lucía odríguez López
+Autora: Lucía Rodríguez López
 Fecha: 16/10/2025
 """
 

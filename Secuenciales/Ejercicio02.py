@@ -1,7 +1,7 @@
 """ 
 Ejercicio 2. Media aritmética.
 Diseña un algoritmo que pida dos números y calcule la media de ambos.
-Autora: Lucía odríguez López
+Autora: Lucía Rodríguez López
 Fecha: 16/10/2025
 """
 

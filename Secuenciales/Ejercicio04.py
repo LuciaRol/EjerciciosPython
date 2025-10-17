@@ -1,7 +1,7 @@
 """ 
 Ejercicio 4. Volumen de un cono.
 Diseña un algoritmo que calcule el volumen de un cono.
-Autora: Lucía odríguez López
+Autora: Lucía Rodríguez López
 Fecha: 16/10/2025
 """
 
