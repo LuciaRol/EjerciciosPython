@@ -6,7 +6,7 @@ Fecha: 17/10/2025
 """
 
 def asignatura():
-
+    """ ... """
     # Al introducir una cadena de caracteres, lower() convierte todos los caracteres a minúsculas
     dia = input("Introduce un día de la semana: ").lower()
     respuesta = ""  

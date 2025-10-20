@@ -19,7 +19,7 @@ def salario_semanal_dos():
             salario = horas*12
         else:
             salario = 40*12 + (horas-40)*16
-            mensaje = "El salario semanal del trabajador es: ", salario
+            mensaje = f"El salario semanal del trabajador es: {salario}."
 
     return mensaje
 
