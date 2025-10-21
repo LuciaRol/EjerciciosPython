@@ -1,5 +1,5 @@
 """
-Ejercicio 20. Desayuno
+Ejercicio 19. Desayuno
 Escribe un programa que calcule el precio de un desayuno. 
 Primero pregunta al usuario que ha tomado para comer: tostada, churros o donuts. 
 Los churros valen 1,50€ y el donut 1€. 
@@ -15,7 +15,10 @@ def desayuno():
     opciones_comida = ["tostada", "churros", "donuts", ""]
     opciones_bebida = ["zumo", "cafe", ""]
 
-    comida = input("¿Qué has tomado para comer? (tostada/churros/donuts): ").lower().strip()
+    precio_comida = 0.00
+    precio_bebida = 0.00
+
+    comida = input("¿Qué has tomado para comer? (tostada/churros/donuts): ").lower()
 
     if comida not in opciones_comida:
         return "Esa comida no está en la carta."
@@ -40,6 +43,7 @@ def desayuno():
 
     if bebida not in opciones_bebida:
         return "Esa bebida no está en la carta."
+    
     if bebida == "zumo":
         precio_bebida = 1.80
     elif bebida == "cafe":

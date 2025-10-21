@@ -6,10 +6,7 @@ Fecha: 17/10/2025
 """
 
 def ordenar_numeros(a, b, c):
-    """
-    Recibe tres números enteros y devuelve una lista con ellos ordenados de menor a mayor.
-    """
-    mensaje = ""
+    """Recibe tres números enteros y devuelve una lista con ellos ordenados de menor a mayor."""
     numeros = [a, b, c]
     numeros.sort()
     return numeros
