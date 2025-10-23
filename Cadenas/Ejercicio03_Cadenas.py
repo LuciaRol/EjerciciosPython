@@ -5,7 +5,7 @@ Autora: Lucía Rodríguez López
 Fecha: 22/10/2025
 """
 
-def comprobar_subcadena():
+def cadena_que_empieza_por_subcadena():
     """Comprueba si una cadena comienza con una subcadena introducida por teclado."""
 
     # Introducimos por teclado una cadena y una subcadena.
@@ -22,6 +22,6 @@ def comprobar_subcadena():
     return mensaje
 
 
-print(comprobar_subcadena())
+print(cadena_que_empieza_por_subcadena())
 
 

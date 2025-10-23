@@ -1,0 +1,1 @@
+from ejemplo import leer_entero_minimo
